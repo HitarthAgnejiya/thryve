@@ -1,0 +1,1 @@
+Optional model file instructions: create a models/ folder beside app.py and place compatible pothole-trained Ultralytics weights there as pothole_model.pt. No model weights are included. Verify model labels, license, and performance before relying on predictions.
