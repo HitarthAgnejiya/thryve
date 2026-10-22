@@ -1,0 +1,7 @@
+streamlit>=1.36
+pandas>=2.0
+pillow>=10.0
+folium>=0.16
+streamlit-folium>=0.22
+ultralytics>=8.2
+opencv-python>=4.9
